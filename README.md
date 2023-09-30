@@ -13,8 +13,8 @@ The project utilizes two main datasets:
 
 - `client_data.csv`: Contains customer-specific information, including margin data, consumption data, and contract history.
 
-- `price_data.csv`: Provides competitor pricing data, helping us understand PowerCo's competitive position.
-
+- `price_data.csv`: Provides historical pricing data for 2015 from January to December for each SME client.
+  
 For detailed descriptions of these datasets, please refer to the `Data_Description.docx` file.
 
 ## Project Structure
