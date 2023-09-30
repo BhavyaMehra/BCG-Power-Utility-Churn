@@ -11,7 +11,7 @@ PowerCo, a utility company, is concerned about customer churn within the Small a
 
 The project utilizes two main datasets:
 
-- `client_data.csv`: Contains customer-specific information, including margin data, consumption data, and contract history.
+- `client_data.csv`: Contains customer-specific information, including margin data, consumption data, and contract history as of January 2016 and whether customers have churned by March 2016.
 
 - `price_data.csv`: Provides historical pricing data for 2015 from January to December for each SME client.
   
